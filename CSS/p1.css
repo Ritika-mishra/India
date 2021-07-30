@@ -1,0 +1,106 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+.Heading{
+font-size: 30px;
+color: #222831;
+font-family: fantasy;
+position: absolute;
+top:200px;
+left: 200px;
+right: 200px;
+bottom: 200px;
+text-align: center;
+}
+.parallax0 {
+ background-image: url("https://i0.wp.com/indiathedestiny.com/wp-content/uploads/2017/08/stone-art.jpg?resize=910%2C512&ssl=1");
+ opacity: 60%;
+ height: 100%;
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.Kolm{
+  font-size: 25px;
+  color: #222831;
+  font-family: fantasy;
+  position: absolute;
+  top:1100px;
+  left: 200px;
+  right: 200px;
+  bottom: 200px;
+  text-align: center;
+}
+.KOLLAM {
+ background-image: url("https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Jatayu%E2%80%99s-Earth-Centre-kollam-kb6592.jpg");
+ opacity: 60%;
+ height: 100%;
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.Taj {
+ background-image: url("https://www.airpano.com/files/taj-mahal-india/image8a.jpg");
+ opacity: 60%;
+ height: 100%;
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.mahal{
+  font-size: 25px;
+  color: #222831;
+  font-family: fantasy;
+  position: absolute;
+  top:2200px;
+  left: 200px;
+  right: 200px;
+  bottom: 200px;
+  text-align: center;
+}
+.hawa{
+  font-size: 25px;
+  color: #222831;
+  font-family: fantasy;
+  position: absolute;
+  top:3500px;
+  left: 200px;
+  right: 200px;
+  bottom: 200px;
+  text-align: center;
+}
+.India {
+  padding: 80px;
+  text-align: center;
+  background-color: #222831;
+  color:white;
+
+}
+.hm {
+ background-image: url("https://www.jatinverma.org/uploads/2019_11/hawa_mehal.jpg");
+ opacity: 60%;
+ height: 100%;
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.parallax3 {
+ background-image: url("https://cdn-cdmoj.nitrocdn.com/aMXvDVbOTxUQVHZUrOLYcprbySihZhas/assets/static/source/blog/wp-content/uploads/2021/03/54c745aef944e76392e4e79dd2a441d5.Popular-Temples-in-India.jpg");
+ opacity: 60%;
+ height: 100%;
+background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+form{
+  background-color: #222831;
+  color: white;
+  padding: 30px;
+}
