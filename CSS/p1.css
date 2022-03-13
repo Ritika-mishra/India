@@ -90,7 +90,7 @@ background-attachment: fixed;
  background-repeat: no-repeat;
  background-size: cover;
 }
-.parallax3 {
+/* .parallax3 {
  background-image: url("https://cdn-cdmoj.nitrocdn.com/aMXvDVbOTxUQVHZUrOLYcprbySihZhas/assets/static/source/blog/wp-content/uploads/2021/03/54c745aef944e76392e4e79dd2a441d5.Popular-Temples-in-India.jpg");
  opacity: 60%;
  height: 100%;
@@ -98,7 +98,7 @@ background-attachment: fixed;
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
-}
+} */
 form{
   background-color: #222831;
   color: white;
